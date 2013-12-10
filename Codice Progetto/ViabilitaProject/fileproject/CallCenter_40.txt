@@ -1,0 +1,14 @@
+New Call Center: 40
+CallCenter ID=40 is started...
+Registering a new OFFICE
+Registering a new OFFICE
+Registering a new OFFICE
+Registering a new OFFICE
+Sono riuscito ad ottenere l'ufficio 41 prima dello scadere del Timer
+Sono riuscito ad ottenere l'ufficio 43 prima dello scadere del Timer
+Receiving a new signal from other CallCenter
+Notifichiamo all'callCenter 30 l'esecuzione dell'ufficio 41
+Receiving a new signal from other CallCenter
+Notifichiamo all'callCenter 30 l'esecuzione dell'ufficio 43
+Ho liberato l'ufficio: 41
+Ho liberato l'ufficio: 43

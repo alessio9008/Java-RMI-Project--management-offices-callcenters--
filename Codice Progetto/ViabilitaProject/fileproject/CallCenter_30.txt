@@ -1,0 +1,16 @@
+New Call Center: 30
+CallCenter ID=30 is started...
+Registering a new OFFICE
+Registering a new OFFICE
+Registering a new OFFICE
+Registering a new OFFICE
+Sono riuscito ad ottenere l'ufficio 33 prima dello scadere del Timer
+Receiving a new signal from other CallCenter
+Notifichiamo all'callCenter 20 l'esecuzione dell'ufficio 33
+Ho liberato l'ufficio: 33
+Sono riuscito ad ottenere l'ufficio 33 prima dello scadere del Timer
+L'ufficio 33 ha completato la richiesta locale.
+L'ufficio 41 ha completato la richiesta locale (Notificata dall'esterno)
+L'ufficio 43 ha completato la richiesta locale (Notificata dall'esterno)
+L'ufficio 11 ha completato la richiesta locale (Notificata dall'esterno)
+Ho liberato l'ufficio: 33

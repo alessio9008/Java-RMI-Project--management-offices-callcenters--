@@ -6,3 +6,4 @@ The system have five callcenters and twenty offices, every callcenter can receiv
 -execute required operations.
 -send the answer to the user. 
 -unlock resources.
+finally, In the system we have the management of the deadlock.

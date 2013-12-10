@@ -1,0 +1,1 @@
+Dal progetto netbeans è possibile avviare anche gli user tramite una GUI creata ad-hoc per l'user 

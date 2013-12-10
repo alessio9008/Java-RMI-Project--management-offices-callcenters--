@@ -1,0 +1,45 @@
+New Call Center: 10
+CallCenter ID=10 is started...
+Registering a new OFFICE
+Registering a new OFFICE
+Registering a new OFFICE
+Registering a new OFFICE
+Sono riuscito ad ottenere l'ufficio 11 prima dello scadere del Timer
+Sono riuscito ad ottenere l'ufficio 12 prima dello scadere del Timer
+Attendo l'ufficio: 11
+Send probe inviata da: 30
+Send probe inviata per conto di: 10
+Gli uffici bloccati sono: [21, 33, 11]
+La Segnalazione con id :0
+L'ultimo dei bloccati è realmente bloccato
+Gli uffici non sono tutti bloccati
+il prossimo ufficio che mi serve è: 21
+Ufficio che mi serve è già contenuto nella lista
+Il callcenter che blocca l'ufficio: 20
+La segnalazione che blocca tutto è: 0
+Deadlock risolto, Invio di ripetere la richiesta segnalazione al callcenter: 10 con signal id: 0
+Probe Answare: Deadlock risolto,Riprovare
+Sto sbloccando l'ufficio: 11
+è mio
+Ho liberato l'ufficio: 11
+Sto sbloccando l'ufficio: 12
+è mio
+Sono riuscito ad ottenere l'ufficio 11 prima dello scadere del Timer
+Ho liberato l'ufficio: 12
+Sto sbloccando l'ufficio: 22
+Non è mio lo chiedo al proprietario
+Sto sbloccando l'ufficio: 21
+Non è mio lo chiedo al proprietario
+Rimuovo la segnalazione con id: 0
+Attendo l'ufficio: 11
+Receiving a new signal from other CallCenter
+Notifichiamo all'callCenter 30 l'esecuzione dell'ufficio 11
+Ho liberato l'ufficio: 11
+Sono riuscito ad ottenere l'ufficio 11 prima dello scadere del Timer
+Sono riuscito ad ottenere l'ufficio 12 prima dello scadere del Timer
+L'ufficio 11 ha completato la richiesta locale.
+L'ufficio 12 ha completato la richiesta locale.
+L'ufficio 22 ha completato la richiesta locale (Notificata dall'esterno)
+L'ufficio 21 ha completato la richiesta locale (Notificata dall'esterno)
+Ho liberato l'ufficio: 11
+Ho liberato l'ufficio: 12

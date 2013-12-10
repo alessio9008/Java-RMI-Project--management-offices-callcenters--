@@ -1,0 +1,33 @@
+New Call Center: 30
+CallCenter ID=30 is started...
+Registering a new OFFICE
+Registering a new OFFICE
+Registering a new OFFICE
+Registering a new OFFICE
+Sono riuscito ad ottenere l'ufficio 33 prima dello scadere del Timer
+Attendo l'ufficio: 33
+Send probe inviata da: 20
+Send probe inviata per conto di: 10
+Gli uffici bloccati sono: [21, 33]
+La Segnalazione con id :0
+L'ultimo dei bloccati è realmente bloccato
+Gli uffici non sono tutti bloccati
+il prossimo ufficio che mi serve è: 11
+Ufficio non ancora contenuto in lista
+aggiungo ufficio
+Ufficio non locale non è il mio
+Il callcenter che blocca l'ufficio è: 10
+Mando la probe ad: 10
+L'ufficio 33 ha completato la richiesta locale.
+L'ufficio 41 ha completato la richiesta locale (Notificata dall'esterno)
+L'ufficio 43 ha completato la richiesta locale (Notificata dall'esterno)
+Timeout scattato sull'ufficio: 33
+execute Remote deadlock
+L'ufficio 11 ha completato la richiesta locale (Notificata dall'esterno)
+Ho liberato l'ufficio: 33
+Send probe inviata da: 30
+Send probe inviata per conto di: 20
+Gli uffici bloccati sono: [33]
+La Segnalazione con id :0
+L'ultimo dei bloccati non è più bloccato
+Deadlock Evitato. Via libera!

@@ -1,0 +1,8 @@
+ 
+>Per avviare la DEMO aprire la cartella "Jar di avvio"
+
+>Attendere un 30 secondi ( i parametri temporali del progetto sono stati impostati volutamente alti 
+per permettere il verificarsi sistematico della situazione di deadlock mostrata nella DEMO ).
+
+>Aprire i file dentro la cartella /fileprojects/ per analizzare gli output.
+NB nella directory della DEMO vi è una cartella fileprojectsDEMO contenente i file relativi ad una DEMO avviata da noi.

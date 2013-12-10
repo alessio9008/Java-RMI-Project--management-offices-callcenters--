@@ -1,0 +1,8 @@
+Creating new UserRicky
+INIT the User...
+Chiamo il callCenter: 30
+Con questi uffici: [33, 41, 43, 11]
+ID associato all'ultima segnalazione inviata: 0
+Signal message:Ho finito la tua richiesta...
+Sending the signal
+Main User Ok

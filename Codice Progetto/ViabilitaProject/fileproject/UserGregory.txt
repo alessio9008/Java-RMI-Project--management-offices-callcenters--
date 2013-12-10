@@ -1,0 +1,8 @@
+Creating new UserGregory
+INIT the User...
+Chiamo il callCenter: 10
+Con questi uffici: [11, 12, 22, 21]
+ID associato all'ultima segnalazione inviata: 0
+Signal message:Ho finito la tua richiesta...
+Sending the signal
+Main User Ok

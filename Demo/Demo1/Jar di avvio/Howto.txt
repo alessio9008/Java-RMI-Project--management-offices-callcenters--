@@ -1,0 +1,12 @@
+ 
+Aprire il terminale in questa posizione ed eseguire il comando:
+
+java -Djava.security.policy=./project.policy -jar ViabilitaProject.jar demo1
+
+
+Dopo controllare i file di output all'interno della cartella fileproject:
+- in particolare controllare:
+      >i file relativi agli utenti per vedere chi completa la segnalazione e chi viene scelto
+      dall'algoritmo per eliminare la propria segnalazione
+      >i file relativi ai vari ControlCenter per vedere cosa accade
+

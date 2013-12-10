@@ -1,0 +1,7 @@
+Creating new UserAlessio
+INIT the User...
+Chiamo il callCenter: 20
+Con questi uffici: [21, 51, 52, 33]
+ID associato all'ultima segnalazione inviata: 0
+Spiacenti, si è verificato un deadlock con la vostra segnalazione
+

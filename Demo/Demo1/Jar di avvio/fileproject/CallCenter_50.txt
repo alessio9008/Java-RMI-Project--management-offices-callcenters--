@@ -1,0 +1,10 @@
+New Call Center: 50
+CallCenter ID=50 is started...
+Registering a new OFFICE
+Registering a new OFFICE
+Registering a new OFFICE
+Registering a new OFFICE
+Sono riuscito ad ottenere l'ufficio 51 prima dello scadere del Timer
+Sono riuscito ad ottenere l'ufficio 52 prima dello scadere del Timer
+Ho liberato l'ufficio: 51
+Ho liberato l'ufficio: 52

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/media/ct/01CD9A55B4AFF320/Dropbox/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/Consegna%20Progetto%20PSD%20Callea-%20Nocita-%20Oglialoro/Codice%20Progetto/ViabilitaProject/src/GlobalMain.java</file>
+    </open-files>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/entities/CallCenter.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/commonInterface/IUser.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/GUI/UserGUI.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/entities/Signal.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/commonInterface/ICallCenter_Office.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/commonInterface/ICallCenter_User.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/commonInterface/IOffice.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/GUI/MainUserGUI.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/MainUsers.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/entities/BooleanObject.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/commonInterface/ICallCenter.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/entities/User.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/MainCallCenter.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/GlobalMain.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/entities/IDeadlock.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/commonInterface/GlobalParameters.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/entities/Office.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/commonInterface/ICallCenter_CallCenter.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/entities/TokenLockTimer.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/MainRMIRegistry.java</file>
+            <file>file:/home/gregory/Dropbox/Alessio&amp;Gregory&amp;Ricky/PrimoProgettoSistemiDistribuiti/ViabilitaProject/src/MainOffice.java</file>
+        </group>
+    </open-files>
+</project-private>

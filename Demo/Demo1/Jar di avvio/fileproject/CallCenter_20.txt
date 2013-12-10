@@ -1,0 +1,46 @@
+New Call Center: 20
+CallCenter ID=20 is started...
+Registering a new OFFICE
+Registering a new OFFICE
+Registering a new OFFICE
+Registering a new OFFICE
+Sono riuscito ad ottenere l'ufficio 21 prima dello scadere del Timer
+Sono riuscito ad ottenere l'ufficio 22 prima dello scadere del Timer
+Attendo l'ufficio: 21
+Timeout scattato sull'ufficio: 21
+execute Remote deadlock
+Send probe inviata da: 20
+Send probe inviata per conto di: 10
+Gli uffici bloccati sono: [21]
+La Segnalazione con id :0
+L'ultimo dei bloccati è realmente bloccato
+Gli uffici non sono tutti bloccati
+il prossimo ufficio che mi serve è: 33
+Ufficio non ancora contenuto in lista
+aggiungo ufficio
+Ufficio non locale non è il mio
+Il callcenter che blocca l'ufficio è: 30
+Mando la probe ad: 30
+Procedura di ripristino
+Segnalazione mia
+Sto sbloccando l'ufficio: 21
+è mio
+Ho liberato l'ufficio: 21
+Sto sbloccando l'ufficio: 51
+Non è mio lo chiedo al proprietario
+Sto sbloccando l'ufficio: 52
+Non è mio lo chiedo al proprietario
+Tutti svegliati
+Comunico all'utente
+Risposta inviata
+Ho liberato l'ufficio: 22
+Ho liberato l'ufficio: 21
+Sono riuscito ad ottenere l'ufficio 22 prima dello scadere del Timer
+Sono riuscito ad ottenere l'ufficio 21 prima dello scadere del Timer
+Receiving a new signal from other CallCenter
+Notifichiamo all'callCenter 10 l'esecuzione dell'ufficio 22
+Receiving a new signal from other CallCenter
+Notifichiamo all'callCenter 10 l'esecuzione dell'ufficio 21
+Ho liberato l'ufficio: 22
+Ho liberato l'ufficio: 21
+Probe Answare: Deadlock Evitato. Via libera!
