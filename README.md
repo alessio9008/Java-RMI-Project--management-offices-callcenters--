@@ -14,5 +14,3 @@ The system have five callcenters and twenty offices, every callcenter can receiv
 finally, In the system we have the management of the deadlock.
 
 This project was developed by Alessio Oglialoro, Gregory Callea and Riccardo Nocita.
-
-
