@@ -1,4 +1,4 @@
-Java-RMI-Project--management-offices-callcenters--
+Java RMI Project management offices callcenters
 ==================================================
 
 The system have five callcenters and twenty offices, every callcenter can receive a signal that requires from one to four offices. Then every signal have one id and the list of required offices. When the user enters in the system, every callcenter does the operations:
